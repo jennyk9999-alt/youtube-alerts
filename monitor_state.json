@@ -1,0 +1,65 @@
+{
+ "channels": {
+  "UCj69zn58WJfVHXIuQmR8NeQ": {
+   "subs": 19,
+   "video_views": {
+    "GQEx6YoBZtI": {
+     "views": 14,
+     "ema": 0
+    },
+    "6lZVXOiCHfo": {
+     "views": 1615,
+     "ema": 0
+    },
+    "TeViWJHRpDY": {
+     "views": 1342,
+     "ema": 0
+    },
+    "S_rVHYWDIzA": {
+     "views": 57,
+     "ema": 0
+    },
+    "h9gu05f_iYk": {
+     "views": 1607,
+     "ema": 0
+    }
+   },
+   "report_cards": {
+    "GQEx6YoBZtI": {
+     "pub": "2026-09-23T23:00:21Z",
+     "done": false
+    },
+    "6lZVXOiCHfo": {
+     "pub": "2026-09-23T09:00:11Z",
+     "done": false
+    },
+    "TeViWJHRpDY": {
+     "pub": "2026-09-23T03:00:04Z",
+     "done": false
+    }
+   },
+   "known_videos": [
+    "6lZVXOiCHfo",
+    "GQEx6YoBZtI",
+    "S_rVHYWDIzA",
+    "TeViWJHRpDY",
+    "h9gu05f_iYk"
+   ],
+   "seen_comments": [
+    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
+    "UgwUJVC-u_-MzD9lOaV4AaABAg",
+    "UgySxIdcj9d3eR7Gzjl4AaABAg",
+    "UgzUYqmkbbePgUyRTSd4AaABAg",
+    "UgxyTjYrH-u6cIACWet4AaABAg",
+    "UgyKzOBovgquAehueI94AaABAg",
+    "UgymBVxBp63VxjxplHp4AaABAg",
+    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
+    "UgzR6k6VjuOPnRfnpD94AaABAg",
+    "Ugxx3uNHlpTDokGUF7l4AaABAg",
+    "UgxUFpKvJN8Bl1pZOlV4AaABAg"
+   ]
+  }
+ },
+ "seeded": true,
+ "updated_at": "2026-09-24T10:34:47.187371+09:00"
+}
