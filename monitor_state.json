@@ -1,27 +1,27 @@
 {
  "channels": {
   "UCj69zn58WJfVHXIuQmR8NeQ": {
-   "subs": 31,
+   "subs": 30,
    "video_views": {
     "XJGrHhFymD8": {
-     "views": 10094,
-     "ema": 1597.36
+     "views": 12103,
+     "ema": 1720.85
     },
     "GioEK3k1E28": {
-     "views": 1326,
-     "ema": 211.87
+     "views": 1355,
+     "ema": 157.01
     },
     "jRHuqt_AJI8": {
-     "views": 1319,
-     "ema": 353.5
+     "views": 1499,
+     "ema": 301.45
     },
     "lCai1DN4gXM": {
-     "views": 1236,
-     "ema": 421
+     "views": 1376,
+     "ema": 336.7
     },
     "mrYdmDbeRm4": {
-     "views": 714,
-     "ema": 0
+     "views": 970,
+     "ema": 256
     }
    },
    "report_cards": {
@@ -78,23 +78,25 @@
     "UgzR6k6VjuOPnRfnpD94AaABAg",
     "Ugxx3uNHlpTDokGUF7l4AaABAg",
     "UgxUFpKvJN8Bl1pZOlV4AaABAg",
-    "UgzFItvHMZTymOKK9Al4AaABAg",
-    "UgwUHg1GbBH57PB8ANx4AaABAg",
-    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
     "UgxUFpKvJN8Bl1pZOlV4AaABAg",
-    "UgyhzHzOeRx7A29xu5V4AaABAg",
-    "Ugyte6meatxeGYQnhHJ4AaABAg",
-    "UgwvJNYAkfHXKNpiFOF4AaABAg",
-    "UgzR6k6VjuOPnRfnpD94AaABAg",
-    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
-    "UgwUJVC-u_-MzD9lOaV4AaABAg",
-    "UgzUYqmkbbePgUyRTSd4AaABAg",
-    "UgxyTjYrH-u6cIACWet4AaABAg",
-    "UgymBVxBp63VxjxplHp4AaABAg",
-    "UgyKzOBovgquAehueI94AaABAg",
-    "Ugxx3uNHlpTDokGUF7l4AaABAg",
     "UgySxIdcj9d3eR7Gzjl4AaABAg",
-    "UgzGaBnXirFULCzol1B4AaABAg"
+    "Ugyte6meatxeGYQnhHJ4AaABAg",
+    "UgymBVxBp63VxjxplHp4AaABAg",
+    "UgwvJNYAkfHXKNpiFOF4AaABAg",
+    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
+    "UgwUHg1GbBH57PB8ANx4AaABAg",
+    "Ugz7axQifF6V9Vaapr94AaABAg",
+    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
+    "Ugxx3uNHlpTDokGUF7l4AaABAg",
+    "UgwUJVC-u_-MzD9lOaV4AaABAg",
+    "UgzGaBnXirFULCzol1B4AaABAg",
+    "UgyhzHzOeRx7A29xu5V4AaABAg",
+    "UgxyTjYrH-u6cIACWet4AaABAg",
+    "UgzFItvHMZTymOKK9Al4AaABAg",
+    "Ugz0ZbZiqj2ebrBteWR4AaABAg",
+    "UgzUYqmkbbePgUyRTSd4AaABAg",
+    "UgyKzOBovgquAehueI94AaABAg",
+    "UgzR6k6VjuOPnRfnpD94AaABAg"
    ],
    "h24_history": [
     1138,
@@ -106,5 +108,5 @@
   }
  },
  "seeded": true,
- "updated_at": "2026-09-25T23:02:35.069804+09:00"
+ "updated_at": "2026-09-26T03:47:31.833691+09:00"
 }
