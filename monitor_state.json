@@ -1,41 +1,37 @@
 {
  "channels": {
   "UCj69zn58WJfVHXIuQmR8NeQ": {
-   "subs": 30,
+   "subs": 34,
    "video_views": {
-    "XJGrHhFymD8": {
-     "views": 12103,
-     "ema": 1720.85
-    },
     "GioEK3k1E28": {
-     "views": 1355,
-     "ema": 157.01
+     "views": 1376,
+     "ema": 116.21
     },
     "jRHuqt_AJI8": {
-     "views": 1499,
-     "ema": 301.45
+     "views": 1663,
+     "ema": 260.21
     },
     "lCai1DN4gXM": {
-     "views": 1376,
-     "ema": 336.7
+     "views": 1391,
+     "ema": 240.19
     },
     "mrYdmDbeRm4": {
-     "views": 970,
-     "ema": 256
+     "views": 1004,
+     "ema": 189.4
+    },
+    "nw4txcjVuH8": {
+     "views": 213,
+     "ema": 0
     }
    },
    "report_cards": {
-    "XJGrHhFymD8": {
-     "pub": "2026-09-24T03:00:38Z",
-     "done": true
-    },
     "GioEK3k1E28": {
      "pub": "2026-09-24T09:00:21Z",
      "done": true
     },
     "jRHuqt_AJI8": {
      "pub": "2026-09-24T23:00:29Z",
-     "done": false
+     "done": true
     },
     "lCai1DN4gXM": {
      "pub": "2026-09-25T03:00:12Z",
@@ -43,6 +39,10 @@
     },
     "mrYdmDbeRm4": {
      "pub": "2026-09-25T09:00:29Z",
+     "done": false
+    },
+    "nw4txcjVuH8": {
+     "pub": "2026-09-25T23:00:22Z",
      "done": false
     }
    },
@@ -56,9 +56,12 @@
     "h9gu05f_iYk",
     "jRHuqt_AJI8",
     "lCai1DN4gXM",
-    "mrYdmDbeRm4"
+    "mrYdmDbeRm4",
+    "nw4txcjVuH8"
    ],
    "seen_comments": [
+    "Ugztu64vTk4BmgUlF9R4AaABAg",
+    "UgyVDfNty8hJ-nwXLXJ4AaABAg",
     "Ugz0ZbZiqj2ebrBteWR4AaABAg",
     "Ugz7axQifF6V9Vaapr94AaABAg",
     "UgyhzHzOeRx7A29xu5V4AaABAg",
@@ -77,36 +80,36 @@
     "UgyNVLTPu-N_UWJQ3aF4AaABAg",
     "UgzR6k6VjuOPnRfnpD94AaABAg",
     "Ugxx3uNHlpTDokGUF7l4AaABAg",
-    "UgxUFpKvJN8Bl1pZOlV4AaABAg",
-    "UgxUFpKvJN8Bl1pZOlV4AaABAg",
-    "UgySxIdcj9d3eR7Gzjl4AaABAg",
+    "UgwUJVC-u_-MzD9lOaV4AaABAg",
     "Ugyte6meatxeGYQnhHJ4AaABAg",
+    "UgzR6k6VjuOPnRfnpD94AaABAg",
+    "UgzFItvHMZTymOKK9Al4AaABAg",
     "UgymBVxBp63VxjxplHp4AaABAg",
     "UgwvJNYAkfHXKNpiFOF4AaABAg",
-    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
-    "UgwUHg1GbBH57PB8ANx4AaABAg",
-    "Ugz7axQifF6V9Vaapr94AaABAg",
-    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
-    "Ugxx3uNHlpTDokGUF7l4AaABAg",
-    "UgwUJVC-u_-MzD9lOaV4AaABAg",
-    "UgzGaBnXirFULCzol1B4AaABAg",
-    "UgyhzHzOeRx7A29xu5V4AaABAg",
-    "UgxyTjYrH-u6cIACWet4AaABAg",
-    "UgzFItvHMZTymOKK9Al4AaABAg",
     "Ugz0ZbZiqj2ebrBteWR4AaABAg",
-    "UgzUYqmkbbePgUyRTSd4AaABAg",
     "UgyKzOBovgquAehueI94AaABAg",
-    "UgzR6k6VjuOPnRfnpD94AaABAg"
+    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
+    "UgzUYqmkbbePgUyRTSd4AaABAg",
+    "Ugxx3uNHlpTDokGUF7l4AaABAg",
+    "Ugz7axQifF6V9Vaapr94AaABAg",
+    "UgxyTjYrH-u6cIACWet4AaABAg",
+    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
+    "UgzGaBnXirFULCzol1B4AaABAg",
+    "UgxUFpKvJN8Bl1pZOlV4AaABAg",
+    "UgySxIdcj9d3eR7Gzjl4AaABAg",
+    "UgyhzHzOeRx7A29xu5V4AaABAg",
+    "UgwUHg1GbBH57PB8ANx4AaABAg"
    ],
    "h24_history": [
     1138,
     1526,
     5580,
     7028,
-    1096
+    1096,
+    1491
    ]
   }
  },
  "seeded": true,
- "updated_at": "2026-09-26T03:47:31.833691+09:00"
+ "updated_at": "2026-09-26T10:47:01.088886+09:00"
 }
