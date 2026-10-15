@@ -3,35 +3,31 @@
   "UCj69zn58WJfVHXIuQmR8NeQ": {
    "subs": 76,
    "video_views": {
-    "IOowuAoWURc": {
-     "views": 3678,
-     "ema": 0.59
-    },
     "ZUMNMu4wYhs": {
-     "views": 1258,
-     "ema": 0.96
+     "views": 1261,
+     "ema": 1.57
     },
     "6dMTNULG9c0": {
      "views": 1335,
-     "ema": 0.35
+     "ema": 0.24
     },
     "eRl46jm3CVg": {
-     "views": 1643,
-     "ema": 57.81
+     "views": 1683,
+     "ema": 52.47
     },
     "Dm2oTwEjK6Q": {
-     "views": 1189,
-     "ema": 111.64
+     "views": 1191,
+     "ema": 78.75
+    },
+    "_dj_B3bG7LI": {
+     "views": 168,
+     "ema": 0
     }
    },
    "report_cards": {
     "U5gWjTbuK9w": {
      "pub": "2026-09-27T23:00:29Z",
      "done": false
-    },
-    "IOowuAoWURc": {
-     "pub": "2026-10-01T15:00:29Z",
-     "done": true
     },
     "ZUMNMu4wYhs": {
      "pub": "2026-10-02T23:00:35Z",
@@ -48,6 +44,10 @@
     "Dm2oTwEjK6Q": {
      "pub": "2026-10-14T03:00:18Z",
      "done": true
+    },
+    "_dj_B3bG7LI": {
+     "pub": "2026-10-15T09:00:06Z",
+     "done": false
     }
    },
    "known_videos": [
@@ -68,6 +68,7 @@
     "XJGrHhFymD8",
     "ZUMNMu4wYhs",
     "ZcgLFGUioLs",
+    "_dj_B3bG7LI",
     "bNR4j-a4Ta4",
     "eRl46jm3CVg",
     "h9gu05f_iYk",
@@ -98,45 +99,45 @@
     "UgwcYzXfW5gQRalAgjN4AaABAg",
     "Ugztu64vTk4BmgUlF9R4AaABAg",
     "UgyVDfNty8hJ-nwXLXJ4AaABAg",
-    "UgxUFpKvJN8Bl1pZOlV4AaABAg",
-    "Ugxb_T3sHzRToB4IOdl4AaABAg",
-    "UgyKzOBovgquAehueI94AaABAg",
-    "UgzGaBnXirFULCzol1B4AaABAg",
-    "UgyUr-p2ChlpLndnSBp4AaABAg",
-    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
-    "Ugz0ZbZiqj2ebrBteWR4AaABAg",
-    "UgxUa1nMUOSWz5Kb2yV4AaABAg",
-    "UgzUYqmkbbePgUyRTSd4AaABAg",
-    "UgyVDfNty8hJ-nwXLXJ4AaABAg",
-    "UgwlhvQNCbIQh75PXFZ4AaABAg",
-    "UgxyTjYrH-u6cIACWet4AaABAg",
-    "UgyhzHzOeRx7A29xu5V4AaABAg",
-    "UgxDsEq6vSeZ89KAn1N4AaABAg",
     "UgxSnf7SrmOK4mK_0L14AaABAg",
-    "UgxYHfc0uzASYlghFAl4AaABAg",
-    "Ugy5YdOKgnPnXPy_V054AaABAg",
-    "UgwNWFPK0rn8gjmMHmV4AaABAg",
-    "Ugx9jXLpPn54u7fY1FV4AaABAg",
-    "UgwUJVC-u_-MzD9lOaV4AaABAg",
-    "UgydTutl1BtxVVFpAlt4AaABAg",
-    "UgzR6k6VjuOPnRfnpD94AaABAg",
-    "UgwUHg1GbBH57PB8ANx4AaABAg",
-    "Ugx9o2cSbNu0lsDW34t4AaABAg",
-    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
-    "Ugw9nYhTZTQkcnGOPNB4AaABAg",
-    "UgymBVxBp63VxjxplHp4AaABAg",
-    "UgwxSQgQ---qpKmWpCp4AaABAg",
-    "Ugxx3uNHlpTDokGUF7l4AaABAg",
-    "UgwZwyr46QfDHEQxlsJ4AaABAg",
-    "Ugz7axQifF6V9Vaapr94AaABAg",
-    "UgySxIdcj9d3eR7Gzjl4AaABAg",
-    "UgzdeO06hOi8_2AojSZ4AaABAg",
-    "UgzFItvHMZTymOKK9Al4AaABAg",
-    "Ugyte6meatxeGYQnhHJ4AaABAg",
-    "UgxXb4HgEybpR9cKWlN4AaABAg",
     "UgwvJNYAkfHXKNpiFOF4AaABAg",
+    "UgxUa1nMUOSWz5Kb2yV4AaABAg",
+    "UgymBVxBp63VxjxplHp4AaABAg",
+    "Ugxx3uNHlpTDokGUF7l4AaABAg",
+    "UgzGaBnXirFULCzol1B4AaABAg",
+    "Ugyte6meatxeGYQnhHJ4AaABAg",
+    "Ugz0ZbZiqj2ebrBteWR4AaABAg",
+    "UgyVDfNty8hJ-nwXLXJ4AaABAg",
+    "UgwNWFPK0rn8gjmMHmV4AaABAg",
     "Ugztu64vTk4BmgUlF9R4AaABAg",
-    "UgwcYzXfW5gQRalAgjN4AaABAg"
+    "UgwZwyr46QfDHEQxlsJ4AaABAg",
+    "UgxYHfc0uzASYlghFAl4AaABAg",
+    "UgxUFpKvJN8Bl1pZOlV4AaABAg",
+    "UgyKzOBovgquAehueI94AaABAg",
+    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
+    "UgzUYqmkbbePgUyRTSd4AaABAg",
+    "UgydTutl1BtxVVFpAlt4AaABAg",
+    "UgyhzHzOeRx7A29xu5V4AaABAg",
+    "Ugw9nYhTZTQkcnGOPNB4AaABAg",
+    "Ugz7axQifF6V9Vaapr94AaABAg",
+    "UgzFItvHMZTymOKK9Al4AaABAg",
+    "UgzdeO06hOi8_2AojSZ4AaABAg",
+    "UgzR6k6VjuOPnRfnpD94AaABAg",
+    "UgyUr-p2ChlpLndnSBp4AaABAg",
+    "Ugxb_T3sHzRToB4IOdl4AaABAg",
+    "UgxDsEq6vSeZ89KAn1N4AaABAg",
+    "UgwlhvQNCbIQh75PXFZ4AaABAg",
+    "Ugy5YdOKgnPnXPy_V054AaABAg",
+    "UgxyTjYrH-u6cIACWet4AaABAg",
+    "UgwUJVC-u_-MzD9lOaV4AaABAg",
+    "Ugx9o2cSbNu0lsDW34t4AaABAg",
+    "UgwxSQgQ---qpKmWpCp4AaABAg",
+    "UgwUHg1GbBH57PB8ANx4AaABAg",
+    "UgwcYzXfW5gQRalAgjN4AaABAg",
+    "Ugx9jXLpPn54u7fY1FV4AaABAg",
+    "UgySxIdcj9d3eR7Gzjl4AaABAg",
+    "UgxXb4HgEybpR9cKWlN4AaABAg",
+    "UgyNVLTPu-N_UWJQ3aF4AaABAg"
    ],
    "h24_history": [
     5580,
@@ -163,5 +164,5 @@
   }
  },
  "seeded": true,
- "updated_at": "2026-10-15T16:38:02.806474+09:00"
+ "updated_at": "2026-10-15T22:35:48.091930+09:00"
 }
