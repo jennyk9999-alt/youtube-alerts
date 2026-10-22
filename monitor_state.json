@@ -3,35 +3,31 @@
   "UCj69zn58WJfVHXIuQmR8NeQ": {
    "subs": 81,
    "video_views": {
-    "rMiuf3I9pVc": {
-     "views": 1344,
-     "ema": 10.0
-    },
     "iGDZV5DDQVo": {
-     "views": 1519,
-     "ema": 13.82
+     "views": 1545,
+     "ema": 17.47
     },
     "4SjUqY88EQo": {
-     "views": 1316,
-     "ema": 30.97
+     "views": 1320,
+     "ema": 22.88
     },
     "cnYOQtfM-88": {
-     "views": 586,
-     "ema": 6.07
+     "views": 587,
+     "ema": 4.55
     },
     "uG1x-q4C8dA": {
-     "views": 1060,
-     "ema": 143.55
+     "views": 1062,
+     "ema": 101.08
+    },
+    "iWogBpjV0vY": {
+     "views": 843,
+     "ema": 0
     }
    },
    "report_cards": {
     "U5gWjTbuK9w": {
      "pub": "2026-09-27T23:00:29Z",
      "done": false
-    },
-    "rMiuf3I9pVc": {
-     "pub": "2026-10-17T03:00:12Z",
-     "done": true
     },
     "iGDZV5DDQVo": {
      "pub": "2026-10-18T09:00:38Z",
@@ -47,6 +43,10 @@
     },
     "uG1x-q4C8dA": {
      "pub": "2026-10-21T09:00:19Z",
+     "done": true
+    },
+    "iWogBpjV0vY": {
+     "pub": "2026-10-22T09:00:18Z",
      "done": false
     }
    },
@@ -77,6 +77,7 @@
     "h9gu05f_iYk",
     "hROgvtI3o18",
     "iGDZV5DDQVo",
+    "iWogBpjV0vY",
     "jRHuqt_AJI8",
     "lCai1DN4gXM",
     "mrYdmDbeRm4",
@@ -105,50 +106,49 @@
     "UgwNWFPK0rn8gjmMHmV4AaABAg",
     "UgxDsEq6vSeZ89KAn1N4AaABAg",
     "UgwcYzXfW5gQRalAgjN4AaABAg",
-    "Ugx9jXLpPn54u7fY1FV4AaABAg",
+    "Ugz0ZbZiqj2ebrBteWR4AaABAg",
     "Ugxb_T3sHzRToB4IOdl4AaABAg",
-    "UgzGaBnXirFULCzol1B4AaABAg",
-    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
-    "UgxUa1nMUOSWz5Kb2yV4AaABAg",
-    "UgyVDfNty8hJ-nwXLXJ4AaABAg",
-    "UgzhNR4hxPz4kHGEYjx4AaABAg",
+    "UgwvJNYAkfHXKNpiFOF4AaABAg",
+    "UgxYHfc0uzASYlghFAl4AaABAg",
+    "UgwlhvQNCbIQh75PXFZ4AaABAg",
+    "UgyhzHzOeRx7A29xu5V4AaABAg",
     "Ugz7axQifF6V9Vaapr94AaABAg",
-    "UgxDsEq6vSeZ89KAn1N4AaABAg",
+    "UgwUJVC-u_-MzD9lOaV4AaABAg",
+    "UgwNWFPK0rn8gjmMHmV4AaABAg",
+    "UgzR6k6VjuOPnRfnpD94AaABAg",
+    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
+    "UgyKzOBovgquAehueI94AaABAg",
+    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
+    "UgyUr-p2ChlpLndnSBp4AaABAg",
+    "UgydTutl1BtxVVFpAlt4AaABAg",
+    "UgxXb4HgEybpR9cKWlN4AaABAg",
+    "Ugxx3uNHlpTDokGUF7l4AaABAg",
+    "Ugx9o2cSbNu0lsDW34t4AaABAg",
+    "Ugw9nYhTZTQkcnGOPNB4AaABAg",
+    "UgyVDfNty8hJ-nwXLXJ4AaABAg",
+    "UgxUa1nMUOSWz5Kb2yV4AaABAg",
+    "UgxyTjYrH-u6cIACWet4AaABAg",
+    "UgymBVxBp63VxjxplHp4AaABAg",
+    "UgzdeO06hOi8_2AojSZ4AaABAg",
+    "UgwZwyr46QfDHEQxlsJ4AaABAg",
+    "UgwxSQgQ---qpKmWpCp4AaABAg",
+    "UgxUFpKvJN8Bl1pZOlV4AaABAg",
     "UgwcYzXfW5gQRalAgjN4AaABAg",
+    "Ugx9jXLpPn54u7fY1FV4AaABAg",
+    "UgzGaBnXirFULCzol1B4AaABAg",
+    "UgxSnf7SrmOK4mK_0L14AaABAg",
+    "Ugztu64vTk4BmgUlF9R4AaABAg",
+    "UgwUHg1GbBH57PB8ANx4AaABAg",
+    "UgySxIdcj9d3eR7Gzjl4AaABAg",
+    "UgyOJUYS0lcGEVtb3FR4AaABAg",
+    "UgzhNR4hxPz4kHGEYjx4AaABAg",
     "UgzUYqmkbbePgUyRTSd4AaABAg",
     "UgzFItvHMZTymOKK9Al4AaABAg",
-    "UgyhzHzOeRx7A29xu5V4AaABAg",
-    "Ugy5YdOKgnPnXPy_V054AaABAg",
-    "UgwvJNYAkfHXKNpiFOF4AaABAg",
-    "UgxUFpKvJN8Bl1pZOlV4AaABAg",
-    "UgzR6k6VjuOPnRfnpD94AaABAg",
-    "Ugxx3uNHlpTDokGUF7l4AaABAg",
-    "UgwZwyr46QfDHEQxlsJ4AaABAg",
-    "UgyOJUYS0lcGEVtb3FR4AaABAg",
-    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
-    "UgwUJVC-u_-MzD9lOaV4AaABAg",
-    "UgxYHfc0uzASYlghFAl4AaABAg",
     "Ugyte6meatxeGYQnhHJ4AaABAg",
-    "UgwxSQgQ---qpKmWpCp4AaABAg",
-    "UgyKzOBovgquAehueI94AaABAg",
-    "UgzdeO06hOi8_2AojSZ4AaABAg",
-    "UgxSnf7SrmOK4mK_0L14AaABAg",
-    "UgxyTjYrH-u6cIACWet4AaABAg",
-    "Ugw9nYhTZTQkcnGOPNB4AaABAg",
-    "Ugx9o2cSbNu0lsDW34t4AaABAg",
-    "UgydTutl1BtxVVFpAlt4AaABAg",
-    "Ugztu64vTk4BmgUlF9R4AaABAg",
-    "UgymBVxBp63VxjxplHp4AaABAg",
-    "UgySxIdcj9d3eR7Gzjl4AaABAg",
-    "UgwlhvQNCbIQh75PXFZ4AaABAg",
-    "UgxXb4HgEybpR9cKWlN4AaABAg",
-    "Ugz0ZbZiqj2ebrBteWR4AaABAg",
-    "UgwNWFPK0rn8gjmMHmV4AaABAg",
-    "UgyUr-p2ChlpLndnSBp4AaABAg",
-    "UgwUHg1GbBH57PB8ANx4AaABAg"
+    "UgxDsEq6vSeZ89KAn1N4AaABAg",
+    "Ugy5YdOKgnPnXPy_V054AaABAg"
    ],
    "h24_history": [
-    245,
     792,
     2159,
     2003,
@@ -167,10 +167,11 @@
     1073,
     1186,
     912,
-    473
+    473,
+    880
    ]
   }
  },
  "seeded": true,
- "updated_at": "2026-10-22T16:49:19.494819+09:00"
+ "updated_at": "2026-10-22T22:59:04.513705+09:00"
 }
