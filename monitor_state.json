@@ -1,37 +1,33 @@
 {
  "channels": {
   "UCj69zn58WJfVHXIuQmR8NeQ": {
-   "subs": 83,
+   "subs": 85,
    "video_views": {
-    "4SjUqY88EQo": {
-     "views": 1353,
-     "ema": 5.83
-    },
     "cnYOQtfM-88": {
-     "views": 628,
-     "ema": 6.81
+     "views": 632,
+     "ema": 5.97
     },
     "uG1x-q4C8dA": {
      "views": 1100,
-     "ema": 13.21
+     "ema": 9.25
     },
     "iWogBpjV0vY": {
-     "views": 1329,
-     "ema": 62.39
+     "views": 1343,
+     "ema": 47.87
     },
     "kZ3yQqedXmM": {
-     "views": 1777,
-     "ema": 336.79
+     "views": 2026,
+     "ema": 310.45
+    },
+    "WJG71KrinaQ": {
+     "views": 796,
+     "ema": 0
     }
    },
    "report_cards": {
     "U5gWjTbuK9w": {
      "pub": "2026-09-27T23:00:29Z",
      "done": false
-    },
-    "4SjUqY88EQo": {
-     "pub": "2026-10-19T09:00:08Z",
-     "done": true
     },
     "cnYOQtfM-88": {
      "pub": "2026-10-20T03:00:01Z",
@@ -47,6 +43,10 @@
     },
     "kZ3yQqedXmM": {
      "pub": "2026-10-23T09:00:14Z",
+     "done": true
+    },
+    "WJG71KrinaQ": {
+     "pub": "2026-10-24T09:00:15Z",
      "done": false
     }
    },
@@ -66,6 +66,7 @@
     "S_rVHYWDIzA",
     "TeViWJHRpDY",
     "U5gWjTbuK9w",
+    "WJG71KrinaQ",
     "XJGrHhFymD8",
     "ZUMNMu4wYhs",
     "ZcgLFGUioLs",
@@ -107,50 +108,49 @@
     "UgwNWFPK0rn8gjmMHmV4AaABAg",
     "UgxDsEq6vSeZ89KAn1N4AaABAg",
     "UgwcYzXfW5gQRalAgjN4AaABAg",
-    "Ugz0ZbZiqj2ebrBteWR4AaABAg",
-    "UgzUYqmkbbePgUyRTSd4AaABAg",
-    "UgzR6k6VjuOPnRfnpD94AaABAg",
-    "UgymBVxBp63VxjxplHp4AaABAg",
-    "UgydTutl1BtxVVFpAlt4AaABAg",
-    "UgyVDfNty8hJ-nwXLXJ4AaABAg",
-    "UgxYHfc0uzASYlghFAl4AaABAg",
-    "UgySxIdcj9d3eR7Gzjl4AaABAg",
-    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
-    "UgyOJUYS0lcGEVtb3FR4AaABAg",
-    "Ugyte6meatxeGYQnhHJ4AaABAg",
-    "Ugztu64vTk4BmgUlF9R4AaABAg",
-    "Ugw9nYhTZTQkcnGOPNB4AaABAg",
-    "UgzFItvHMZTymOKK9Al4AaABAg",
     "UgwUHg1GbBH57PB8ANx4AaABAg",
-    "UgxSnf7SrmOK4mK_0L14AaABAg",
-    "Ugz7axQifF6V9Vaapr94AaABAg",
-    "UgyKzOBovgquAehueI94AaABAg",
-    "Ugx9jXLpPn54u7fY1FV4AaABAg",
-    "UgwlhvQNCbIQh75PXFZ4AaABAg",
-    "UgwxSQgQ---qpKmWpCp4AaABAg",
-    "UgzhNR4hxPz4kHGEYjx4AaABAg",
-    "Ugxx3uNHlpTDokGUF7l4AaABAg",
-    "UgxXb4HgEybpR9cKWlN4AaABAg",
-    "UgzGaBnXirFULCzol1B4AaABAg",
-    "UgxUa1nMUOSWz5Kb2yV4AaABAg",
-    "UgyhzHzOeRx7A29xu5V4AaABAg",
-    "UgwZwyr46QfDHEQxlsJ4AaABAg",
-    "UgyUr-p2ChlpLndnSBp4AaABAg",
-    "Ugxb_T3sHzRToB4IOdl4AaABAg",
-    "UgxyTjYrH-u6cIACWet4AaABAg",
-    "UgzdeO06hOi8_2AojSZ4AaABAg",
     "UgwNWFPK0rn8gjmMHmV4AaABAg",
-    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
-    "UgwUJVC-u_-MzD9lOaV4AaABAg",
+    "UgydTutl1BtxVVFpAlt4AaABAg",
+    "Ugztu64vTk4BmgUlF9R4AaABAg",
+    "UgxUa1nMUOSWz5Kb2yV4AaABAg",
+    "UgxXb4HgEybpR9cKWlN4AaABAg",
     "UgwcYzXfW5gQRalAgjN4AaABAg",
+    "UgzGaBnXirFULCzol1B4AaABAg",
+    "UgwUJVC-u_-MzD9lOaV4AaABAg",
+    "UgyVDfNty8hJ-nwXLXJ4AaABAg",
+    "Ugxb_T3sHzRToB4IOdl4AaABAg",
+    "UgyKzOBovgquAehueI94AaABAg",
+    "UgyUr-p2ChlpLndnSBp4AaABAg",
+    "Ugxx3uNHlpTDokGUF7l4AaABAg",
+    "UgzdeO06hOi8_2AojSZ4AaABAg",
+    "UgzFItvHMZTymOKK9Al4AaABAg",
+    "Ugz0ZbZiqj2ebrBteWR4AaABAg",
+    "Ugyte6meatxeGYQnhHJ4AaABAg",
+    "Ugw9nYhTZTQkcnGOPNB4AaABAg",
+    "UgxYHfc0uzASYlghFAl4AaABAg",
+    "UgwLdWpjDCI6S8sgLBJ4AaABAg",
+    "UgyOJUYS0lcGEVtb3FR4AaABAg",
+    "UgwxSQgQ---qpKmWpCp4AaABAg",
+    "UgzR6k6VjuOPnRfnpD94AaABAg",
     "Ugy5YdOKgnPnXPy_V054AaABAg",
     "UgwvJNYAkfHXKNpiFOF4AaABAg",
+    "UgwlhvQNCbIQh75PXFZ4AaABAg",
+    "UgyhzHzOeRx7A29xu5V4AaABAg",
+    "UgwZwyr46QfDHEQxlsJ4AaABAg",
+    "UgxSnf7SrmOK4mK_0L14AaABAg",
+    "UgxyTjYrH-u6cIACWet4AaABAg",
+    "UgymBVxBp63VxjxplHp4AaABAg",
+    "UgzhNR4hxPz4kHGEYjx4AaABAg",
+    "Ugx9jXLpPn54u7fY1FV4AaABAg",
     "UgxUFpKvJN8Bl1pZOlV4AaABAg",
+    "UgzUYqmkbbePgUyRTSd4AaABAg",
+    "UgySxIdcj9d3eR7Gzjl4AaABAg",
+    "UgyNVLTPu-N_UWJQ3aF4AaABAg",
     "UgxDsEq6vSeZ89KAn1N4AaABAg",
-    "Ugx9o2cSbNu0lsDW34t4AaABAg"
+    "Ugx9o2cSbNu0lsDW34t4AaABAg",
+    "Ugz7axQifF6V9Vaapr94AaABAg"
    ],
    "h24_history": [
-    2159,
     2003,
     806,
     1904,
@@ -169,10 +169,11 @@
     912,
     473,
     880,
-    1043
+    1043,
+    1747
    ]
   }
  },
  "seeded": true,
- "updated_at": "2026-10-24T16:30:13.583363+09:00"
+ "updated_at": "2026-10-24T21:50:21.705369+09:00"
 }
